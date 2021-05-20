@@ -13,19 +13,19 @@ The commands I currently support are:
 /pause - ▶️ Pause the audio stream 
 /resume - ⏸ Resume the audio stream 
 /skip - ↪️ Skip the current audio stream
-/mute - 🔇 Mute the userbot
+/mute - 🔇 Mute the user bot
 /unmute - 🔊 Unmute the userbot
 /stop - 🗑🛑 Clear the queue and remove the userbot from the call
-Join @SLTBrecLand
+Join https://t.me/joingrouplk
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/SLTBrecLand"
+                        "Group", url="https://t.me/joingrouplk"
                     ),
                     InlineKeyboardButton(
-                        "Developer", url="https://t.me/Damantha_Jasinghe"
+                        "Developer", url="https://t.me/Darkridersslk"
                     )
                 ]
             ]
